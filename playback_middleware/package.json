@@ -4,7 +4,7 @@
   "main": "lib/middleware.js",
   "dependencies": {
     "q": "~0.9.7",
-    "connect": "~2.9.0"
+    "connect": "~3.0.0"
   },
   "description": "Node module supporting Angular.dart's HTTP playback mode.",
   "scripts": {
